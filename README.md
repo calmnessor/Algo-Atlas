@@ -1,15 +1,35 @@
 # Algo-Atlas
 
+算法刷题笔记，使用 [Obsidian](https://obsidian.md/) 管理。
 
-**记录一下自己的刷题记录**
+## 目录结构
 
-## 二叉树模块
-### 考察遍历的顺序：
-[二叉搜索树第k小的元素](https://blog.csdn.net/m0_62493032/article/details/159156835?sharetype=blogdetail&sharerId=159156835&sharerefer=PC&sharesource=m0_62493032&spm=1011.2480.3001.8118)
+```
+Algo-Atlas/
+├── 00-模板/        # 笔记模板
+├── 01-数据结构/    # 数据结构知识点
+├── 02-算法/        # 按算法分类
+│   ├── 二叉树/
+│   ├── 动态规划/
+│   ├── 回溯/
+│   ├── 双指针/
+│   ├── 哈希表/
+│   ├── 滑动窗口/
+│   └── 贪心/
+└── 03-题解/        # 按题目编号的题解
+```
 
-[二叉树的右视图](https://blog.csdn.net/m0_62493032/article/details/159158817?sharetype=blogdetail&sharerId=159158817&sharerefer=PC&sharesource=m0_62493032&spm=1011.2480.3001.8118)
+## 刷题记录
 
-[二叉树展开链表](https://blog.csdn.net/m0_62493032/article/details/159160845?sharetype=blogdetail&sharerId=159160845&sharerefer=PC&sharesource=m0_62493032&spm=1011.2480.3001.8118)
+### 二叉树模块
 
-[从前序和中序遍历构造二叉树](https://blog.csdn.net/m0_62493032/article/details/159162651?sharetype=blogdetail&sharerId=159162651&sharerefer=PC&sharesource=m0_62493032&spm=1011.2480.3001.8118)
+#### 遍历
 
+- [二叉搜索树第K小的元素](https://blog.csdn.net/m0_62493032/article/details/159156835)
+- [二叉树的右视图](https://blog.csdn.net/m0_62493032/article/details/159158817)
+- [二叉树展开链表](https://blog.csdn.net/m0_62493032/article/details/159160845)
+- [从前序和中序遍历构造二叉树](https://blog.csdn.net/m0_62493032/article/details/159162651)
+
+---
+
+> 持续更新中...
